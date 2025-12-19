@@ -37,7 +37,7 @@ export type ProductData = {
   content: string;
   is_enabled: number;
   imageUrl: string;
-  imagesUrl: string;
+  imagesUrl: string[];
   num: number;
 }
 
