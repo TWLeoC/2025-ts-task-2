@@ -32,4 +32,5 @@ export default defineConfig({
       },
     },
   },
+  base: '/2025-ts-task-2/',
 })
